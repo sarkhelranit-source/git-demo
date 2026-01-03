@@ -19,3 +19,8 @@ console.log("Here is the final clean working code for the reference implementati
 function add(a, b) {
     return a + b;
 }
+
+// Implementation of a simple subtraction function
+function subtract(a, b) {
+    return a - b;
+}
