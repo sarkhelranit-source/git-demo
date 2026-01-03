@@ -14,3 +14,8 @@ function authenticateUser(username, password) {
 console.log("Hello, Version Control!");
 
 console.log("Here is the final clean working code for the reference implementation");
+
+// Implementation of a simple addition function
+function add(a, b) {
+    return a + b;
+}
