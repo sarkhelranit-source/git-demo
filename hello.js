@@ -9,3 +9,7 @@ function authenticateUser(username, password) {
     }
     return false;
 }
+
+// I am in the process of learning version control systems.
+console.log("Hello, Version Control!");
+
